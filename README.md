@@ -1,7 +1,7 @@
 ### Olá, sou Ricardo Chies! Seja bem-vindo ao meu GitHub 👋
 
 - 🔭 Trabalho atualmente como desenvolvedor Back-End. 
-- 🌱 Estudando C# e Java. 
+- 🌱 Estudando C#. 
 - 📚 Sou estudante de Análise e desenvolvimento de sistemas.
 - 💭 Me divirto em resolver desafios e problemas.
 
