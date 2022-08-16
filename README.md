@@ -1,6 +1,6 @@
 ### Olá, sou Ricardo Chies! Seja bem-vindo ao meu GitHub 👋
 
-- 🔭 Trabalho atualmente como desenvolvedor Back-End. 
+- 🔭 Trabalho atualmente como desenvolvedor Full Stack. 
 - 🌱 Estudando C# e React Native. 
 - 📚 Sou estudante de Análise e desenvolvimento de sistemas.
 - 💭 Me divirto em resolver desafios e problemas.
