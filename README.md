@@ -1,6 +1,6 @@
 ### Olá, sou Ricardo Chies! Seja bem-vindo ao meu GitHub 👋
 
-<img href="https://ajvsistemas.com.br" align="right" height="75" src="https://ajvsistemas.com.br/wp-content/uploads/elementor/thumbs/ajv_horizontal-qd17vwu9yj379dwzcj4qcaj7sgebxuz9zhrj1mr6sw.png"  />
+<a href="https://ajvsistemas.com.br" /> <img href="https://ajvsistemas.com.br" align="right" height="75" src="https://ajvsistemas.com.br/wp-content/uploads/elementor/thumbs/ajv_horizontal-qd17vwu9yj379dwzcj4qcaj7sgebxuz9zhrj1mr6sw.png"  />
 
 - 🔭 Trabalho atualmente como Software Engineer. 
 - 🌱 Estudando Arquitetura de Sistemas.
