@@ -52,11 +52,3 @@
 <img src="https://raw.githubusercontent.com/ricardo-chies/ricardo-chies/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/22up6o6f6lylxcaswrfsgbrpa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22up6o6f6lylxcaswrfsgbrpa&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
